@@ -43,15 +43,11 @@ Personal-Finance-Tracker
 └── README.md
 ```
 
----
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 ### 🔐 Login Page
 
-![Login](screenshots/Login.png)
+![Login Page](screenshots/Login.png)
 
 ---
 
@@ -67,7 +63,7 @@ Personal-Finance-Tracker
 
 ---
 
-### 💸 Expenses
+### 💸 Expense Tracking
 
 ![Expenses](screenshots/expenses.png)
 
@@ -75,25 +71,25 @@ Personal-Finance-Tracker
 
 ### 📜 Transaction History
 
-![Transaction History](screenshots/Transaction%20history.png)
+![Transaction History](screenshots/Transaction-history.png)
 
 ---
 
 ### 🎯 Financial Goals
 
-![Goal](screenshots/Goal.png)
+![Goals](screenshots/Goal.png)
 
 ---
 
 ### 🔁 Recurring Transactions
 
-![Recurring Transactions](screenshots/ReccuringTransactions.png)
+![Recurring Transactions](screenshots/Recurring-Transactions.png)
 
 ---
 
 ### 📤 Export History
 
-![Export History](screenshots/export%20history.png)
+![Export History](screenshots/Export-history.png)
 
 ---
 
