@@ -47,7 +47,53 @@ Personal-Finance-Tracker
 
 ## 📸 Screenshots
 
-Coming Soon...
+## 📸 Screenshots
+
+### 🔐 Login Page
+
+![Login](screenshots/Login.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+### 📈 Analytics
+
+![Analytics](screenshots/Analytics.png)
+
+---
+
+### 💸 Expenses
+
+![Expenses](screenshots/expenses.png)
+
+---
+
+### 📜 Transaction History
+
+![Transaction History](screenshots/Transaction%20history.png)
+
+---
+
+### 🎯 Financial Goals
+
+![Goal](screenshots/Goal.png)
+
+---
+
+### 🔁 Recurring Transactions
+
+![Recurring Transactions](screenshots/ReccuringTransactions.png)
+
+---
+
+### 📤 Export History
+
+![Export History](screenshots/export%20history.png)
 
 ---
 
